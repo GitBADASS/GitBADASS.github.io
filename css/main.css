@@ -1,0 +1,16 @@
+:root {
+    --hoshino-clolour: #4600C7;
+    --main-colour: white;
+    --second-colour: #d2d2d2;
+}
+
+#head {
+    height: 50px;
+    background-color: var(--main-colour);
+    border-bottom: 1px var(--second-colour) solid;
+}
+
+.iconImg {
+    height: 50px;
+    width: 50px;
+}

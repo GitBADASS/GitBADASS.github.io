@@ -1,0 +1,16 @@
+.background-colored {
+    background-image: linear-gradient(var(--main-colour), var(--second-hoshino-colour));
+}
+
+.bigBlock {
+    width: 100%;
+    height: var(--big-block-height);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.bigTitle {
+    font-size: 8vh;
+}

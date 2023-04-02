@@ -1,16 +1,78 @@
 :root {
     --hoshino-clolour: #4600C7;
+    --second-hoshino-colour: #f1eaff;
     --main-colour: white;
-    --second-colour: #d2d2d2;
+    --font-colour: black;
+    --second-colour: #e5e5e5;
+    --animation-type: all 0.3s ease-in-out;
+    --header-height: 50px;
+    --big-block-height: 50%;
+}
+
+/*去掉页边距*/
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: "Microsoft JhengHei", serif;
 }
 
 #head {
-    height: 50px;
+    /*height: var(--header-height);*/
+    height: auto;
     background-color: var(--main-colour);
     border-bottom: 1px var(--second-colour) solid;
+    display: flex;
+    align-items: center;
+}
+
+.mainDiv {
+    height: 100%;
+    width: 100%;
 }
 
 .iconImg {
-    height: 50px;
-    width: 50px;
+    margin: 10px;
+    height: 25px;
+    width: 25px;
+    -webkit-user-drag: none;
+    transition: var(--animation-type);
+}
+
+.bigImg {
+    width: auto;
+    height: 500px;
+/*    想办法置于文字之下*/
+}
+
+.iconImg:hover {
+    transform: rotate(15deg);
+    transition: var(--animation-type);
+}
+
+.headerList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.headerListContent {
+    margin: 0;
+    user-select: none;
+    display: inline-block;
+    text-align: center;
+    line-height: var(--header-height);
+    height: var(--header-height);
+    width: 100px;
+    transition: var(--animation-type);
+}
+
+.headerListContent:hover {
+    background-color: var(--second-colour);
+    transition: var(--animation-type);
+}
+
+.noneStyleLink {
+    text-decoration: none;
+    text-underline: none;
+    color: var(--font-colour);
 }

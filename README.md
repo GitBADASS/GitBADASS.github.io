@@ -1,1 +1,1 @@
-#GitBADASS's Blog
+# Welcome to GitBADASS's Blog

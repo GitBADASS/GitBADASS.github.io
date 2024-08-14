@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'GitBADASS.github.io',
+  url: 'https://GitBADASS.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GitBADASS', // Usually your GitHub org/user name.
-  projectName: 'GitBADASS.github.io', // Usually your repo name.
+  projectName: 'GitBADASS', // Usually your repo name.
+  deploymentBranch: 'delpoyment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

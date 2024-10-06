@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>GitBADASS's Blog Blog</title>
+        <link>https://GitBADASS.github.io/blog</link>
+        <description>GitBADASS's Blog Blog</description>
+        <lastBuildDate>Sun, 06 Oct 2024 12:20:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[RSN 开发博客 01]]></title>
+            <link>https://GitBADASS.github.io/blog/welcome-docusaurus-v2</link>
+            <guid>https://GitBADASS.github.io/blog/welcome-docusaurus-v2</guid>
+            <pubDate>Sun, 06 Oct 2024 12:20:48 GMT</pubDate>
+            <description><![CDATA[RSN 开发博客第一篇.]]></description>
+            <content:encoded><![CDATA[<p>RSN 开发博客，此处将会寄存开发信息、开发动态等，技术文档等将会寄存于本站内的 RSN 相关文档页面。</p>]]></content:encoded>
+            <category>hello</category>
+            <category>rsn</category>
+            <category>RandomSeatNumber</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"RSN \u5f00\u53d1\u535a\u5ba2 01","permalink":"/blog/welcome-docusaurus-v2","unlisted":false,"date":"2024-10-06T12:20:48.000Z"}]}')}}]);

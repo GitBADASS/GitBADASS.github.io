@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://GitBADASS.github.io/blog</id>
+    <title>GitBADASS's Blog Blog</title>
+    <updated>2024-10-06T12:20:48.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://GitBADASS.github.io/blog"/>
+    <subtitle>GitBADASS's Blog Blog</subtitle>
+    <icon>https://GitBADASS.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RSN 开发博客 01]]></title>
+        <id>https://GitBADASS.github.io/blog/welcome-docusaurus-v2</id>
+        <link href="https://GitBADASS.github.io/blog/welcome-docusaurus-v2"/>
+        <updated>2024-10-06T12:20:48.000Z</updated>
+        <summary type="html"><![CDATA[RSN 开发博客第一篇.]]></summary>
+        <content type="html"><![CDATA[<p>RSN 开发博客，此处将会寄存开发信息、开发动态等，技术文档等将会寄存于本站内的 RSN 相关文档页面。</p>]]></content>
+        <category label="hello" term="hello"/>
+        <category label="rsn" term="rsn"/>
+        <category label="RandomSeatNumber" term="RandomSeatNumber"/>
+    </entry>
+</feed>

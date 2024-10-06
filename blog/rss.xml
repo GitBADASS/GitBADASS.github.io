@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>GitBADASS's Blog Blog</title>
+        <link>https://GitBADASS.github.io/blog</link>
+        <description>GitBADASS's Blog Blog</description>
+        <lastBuildDate>Sat, 05 Oct 2024 14:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[随机座号程序 RSN 重整旗鼓！]]></title>
+            <link>https://GitBADASS.github.io/blog/rsn-develop-blog-01</link>
+            <guid>https://GitBADASS.github.io/blog/rsn-develop-blog-01</guid>
+            <pubDate>Sat, 05 Oct 2024 14:00:00 GMT</pubDate>
+            <description><![CDATA[This is a develop blog of rsn.]]></description>
+            <content:encoded><![CDATA[<p>作为 RSN (Random Seat Number, 随即座号程序) 项目的第一篇博客，我们会先对 RSN 进行简要介绍。</p>
+<p>RSN 是一款安照平顶山市第一中学座号机制开发的一款随机点名程序，用户（一般面向教师、学生等）需要了解平顶山市第一中学座号机制的有关规范。</p>]]></content:encoded>
+            <category>RSN</category>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>

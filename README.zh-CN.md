@@ -6,7 +6,7 @@
 
 此分支是源码分支，[`deployment`](../../tree/deployment) 分支则是构建完成的静态网站。
 
-## 🌏 语言
+## 🌏 README 语言
 
 - English
 - [简体中文](README.zh-CN.md)

@@ -6,7 +6,7 @@
 
 This branch contains the source code of the site, while the [`deployment`](../../tree/deployment) branch contains the generated static site.
 
-## 🌏 Languages
+## 🌏 README Languages
 
 - English
 - [简体中文](README.zh-CN.md)
